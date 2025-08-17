@@ -41,7 +41,7 @@ export default function App() {
         marginTop: 50
       }}
     >
-      <h1>Hydrate Dial</h1>
+      <h1>pj 1- Hydrate Dial</h1>
       <div style={{ fontSize: 72, margin: "20px" }}>{count}</div>
       <div style={{ display: "flex", gap: 20 }}>
         <button onClick={decrement} style={{ fontSize: 32 }}>
