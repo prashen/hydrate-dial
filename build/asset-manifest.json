@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hydrate-dial/static/css/main.e6c13ad2.css",
+    "main.js": "/hydrate-dial/static/js/main.1981e624.js",
+    "static/js/239.fd1ac604.chunk.js": "/hydrate-dial/static/js/239.fd1ac604.chunk.js",
+    "static/js/977.cb799dea.chunk.js": "/hydrate-dial/static/js/977.cb799dea.chunk.js",
+    "static/js/455.f0810c19.chunk.js": "/hydrate-dial/static/js/455.f0810c19.chunk.js",
+    "static/js/453.10602d39.chunk.js": "/hydrate-dial/static/js/453.10602d39.chunk.js",
+    "index.html": "/hydrate-dial/index.html",
+    "main.e6c13ad2.css.map": "/hydrate-dial/static/css/main.e6c13ad2.css.map",
+    "main.1981e624.js.map": "/hydrate-dial/static/js/main.1981e624.js.map",
+    "239.fd1ac604.chunk.js.map": "/hydrate-dial/static/js/239.fd1ac604.chunk.js.map",
+    "977.cb799dea.chunk.js.map": "/hydrate-dial/static/js/977.cb799dea.chunk.js.map",
+    "455.f0810c19.chunk.js.map": "/hydrate-dial/static/js/455.f0810c19.chunk.js.map",
+    "453.10602d39.chunk.js.map": "/hydrate-dial/static/js/453.10602d39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1981e624.js"
+  ]
+}
